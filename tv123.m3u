@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="PE.m3u"
 #EXTINF:-1 tvg-id="116522" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-RYZMVEsgvkw/X8bgqPkmUHI/AAAAAAAA73Q/AjqyLcVP4L0Lvuo8UOJGP7DpTOUeBIm0gCK8BGAsYHg/s0/2020-12-01.jpg", Turbo Mix TV
 http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="PERU | ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/800px-ATV_%28Peru%29_-_2018_logo.png" group-title="PERU CHANNELS",PERU | ATV
+http://hoiplaytv.ddns.net:8080/allan/allan/61240
