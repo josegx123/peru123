@@ -1,5 +1,430 @@
 #EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="PE.m3u"
 #EXTINF:-1 tvg-id="116522" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-RYZMVEsgvkw/X8bgqPkmUHI/AAAAAAAA73Q/AjqyLcVP4L0Lvuo8UOJGP7DpTOUeBIm0gCK8BGAsYHg/s0/2020-12-01.jpg", Turbo Mix TV
-http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="PERU | ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/800px-ATV_%28Peru%29_-_2018_logo.png" group-title="PERU CHANNELS",PERU | ATV
-http://hoiplaytv.ddns.net:8080/allan/allan/61240
+#EXTINF:-1,VIP FHD : BBC 1
+http://yourdnshere.xyz:83/Kericage/6824106935/374075
+#EXTINF:-1,VIP FHD : BBC 1
+http://yourdnshere.xyz:83/Kericage/6824106935/374158
+#EXTINF:-1,VIP FHD : BBC 1 Northern Ireland
+http://yourdnshere.xyz:83/Kericage/6824106935/374140
+#EXTINF:-1,VIP FHD : BBC One Scotland
+http://yourdnshere.xyz:83/Kericage/6824106935/374081
+#EXTINF:-1,VIP FHD : BBC One Wales
+http://yourdnshere.xyz:83/Kericage/6824106935/374082
+#EXTINF:-1,VIP FHD : BBC Scotland
+http://yourdnshere.xyz:83/Kericage/6824106935/374138
+#EXTINF:-1,VIP FHD : BBC 2
+http://yourdnshere.xyz:83/Kericage/6824106935/374159
+#EXTINF:-1,VIP FHD : BBC  4
+http://yourdnshere.xyz:83/Kericage/6824106935/374078
+#EXTINF:-1,VIP FHD : ITV 1
+http://yourdnshere.xyz:83/Kericage/6824106935/374190
+#EXTINF:-1,VIP FHD : ITV 2
+http://yourdnshere.xyz:83/Kericage/6824106935/374191
+#EXTINF:-1,VIP FHD : ITV 3
+http://yourdnshere.xyz:83/Kericage/6824106935/374192
+#EXTINF:-1,VIP FHD : ITV 4
+http://yourdnshere.xyz:83/Kericage/6824106935/374193
+#EXTINF:-1,VIP FHD : ITV London
+http://yourdnshere.xyz:83/Kericage/6824106935/374109
+#EXTINF:-1,VIP FHD : ITV 1
+http://yourdnshere.xyz:83/Kericage/6824106935/374105
+#EXTINF:-1,VIP FHD : ITV 2
+http://yourdnshere.xyz:83/Kericage/6824106935/374106
+#EXTINF:-1,VIP FHD : ITV 3
+http://yourdnshere.xyz:83/Kericage/6824106935/374107
+#EXTINF:-1,VIP FHD :  ITV 4
+http://yourdnshere.xyz:83/Kericage/6824106935/374108
+#EXTINF:-1,VIP FHD : ITV BE
+http://yourdnshere.xyz:83/Kericage/6824106935/374104
+#EXTINF:-1,VIP FHD : Channel 4
+http://yourdnshere.xyz:83/Kericage/6824106935/374168
+#EXTINF:-1,VIP FHD : Channel 4
+http://yourdnshere.xyz:83/Kericage/6824106935/374087
+#EXTINF:-1,VIP FHD : Channel 5
+http://yourdnshere.xyz:83/Kericage/6824106935/374091
+#EXTINF:-1,VIP FHD : Channel 5
+http://yourdnshere.xyz:83/Kericage/6824106935/374169
+#EXTINF:-1,VIP FHD : Animal Planet
+http://yourdnshere.xyz:83/Kericage/6824106935/374154
+#EXTINF:-1,VIP FHD : 4 SEVEN
+http://yourdnshere.xyz:83/Kericage/6824106935/374155
+#EXTINF:-1,VIP FHD : Alibi
+http://yourdnshere.xyz:83/Kericage/6824106935/374071
+#EXTINF:-1,VIP FHD : Alibi
+http://yourdnshere.xyz:83/Kericage/6824106935/374156
+#EXTINF:-1,VIP FHD : AMC
+http://yourdnshere.xyz:83/Kericage/6824106935/374157
+#EXTINF:-1,VIP FHD : AMC
+http://yourdnshere.xyz:83/Kericage/6824106935/374072
+#EXTINF:-1,VIP FHD : Animal Planet
+http://yourdnshere.xyz:83/Kericage/6824106935/374073
+#EXTINF:-1,VIP FHD : BBC 4
+http://yourdnshere.xyz:83/Kericage/6824106935/374160
+#EXTINF:-1,VIP FHD : BBC News
+http://yourdnshere.xyz:83/Kericage/6824106935/374079
+#EXTINF:-1,VIP FHD : BBC News
+http://yourdnshere.xyz:83/Kericage/6824106935/374161
+#EXTINF:-1,VIP FHD : Blaze
+http://yourdnshere.xyz:83/Kericage/6824106935/374083
+#EXTINF:-1,VIP FHD : Bloomberg
+http://yourdnshere.xyz:83/Kericage/6824106935/374162
+#EXTINF:-1,VIP FHD : Boomerang
+http://yourdnshere.xyz:83/Kericage/6824106935/374164
+#EXTINF:-1,VIP FHD : Cartoon Network
+http://yourdnshere.xyz:83/Kericage/6824106935/374166
+#EXTINF:-1,VIP FHD : Cartoon Network
+http://yourdnshere.xyz:83/Kericage/6824106935/374085
+#EXTINF:-1,VIP FHD : CBBC
+http://yourdnshere.xyz:83/Kericage/6824106935/374074
+#EXTINF:-1,VIP FHD : CBBC
+http://yourdnshere.xyz:83/Kericage/6824106935/374167
+#EXTINF:-1,VIP FHD : CBeebies
+http://yourdnshere.xyz:83/Kericage/6824106935/374077
+#EXTINF:-1,VIP FHD : Cbeebies
+http://yourdnshere.xyz:83/Kericage/6824106935/374086
+#EXTINF:-1,VIP FHD : Crime And Investigation
+http://yourdnshere.xyz:83/Kericage/6824106935/374088
+#EXTINF:-1,VIP FHD : CNN
+http://yourdnshere.xyz:83/Kericage/6824106935/374089
+#EXTINF:-1,VIP FHD : CNN
+http://yourdnshere.xyz:83/Kericage/6824106935/374170
+#EXTINF:-1,VIP FHD : Colors
+http://yourdnshere.xyz:83/Kericage/6824106935/374171
+#EXTINF:-1,VIP FHD : Comedy Central
+http://yourdnshere.xyz:83/Kericage/6824106935/374090
+#EXTINF:-1,VIP FHD : Comedy Central
+http://yourdnshere.xyz:83/Kericage/6824106935/374172
+#EXTINF:-1,VIP FHD : Crime Investigation
+http://yourdnshere.xyz:83/Kericage/6824106935/374173
+#EXTINF:-1,VIP FHD : Dave
+http://yourdnshere.xyz:83/Kericage/6824106935/374092
+#EXTINF:-1,VIP FHD : Dave
+http://yourdnshere.xyz:83/Kericage/6824106935/374174
+#EXTINF:-1,VIP FHD : Daystar
+http://yourdnshere.xyz:83/Kericage/6824106935/374097
+#EXTINF:-1,VIP FHD : Daystar TV
+http://yourdnshere.xyz:83/Kericage/6824106935/374175
+#EXTINF:-1,VIP FHD : Discovery
+http://yourdnshere.xyz:83/Kericage/6824106935/374093
+#EXTINF:-1,VIP FHD : Discovery
+http://yourdnshere.xyz:83/Kericage/6824106935/374176
+#EXTINF:-1,VIP FHD : Disney Channel
+http://yourdnshere.xyz:83/Kericage/6824106935/374094
+#EXTINF:-1,VIP FHD : Disney Channel
+http://yourdnshere.xyz:83/Kericage/6824106935/374177
+#EXTINF:-1,VIP FHD : Disney JR
+http://yourdnshere.xyz:83/Kericage/6824106935/374095
+#EXTINF:-1,VIP FHD : Disney JR
+http://yourdnshere.xyz:83/Kericage/6824106935/374178
+#EXTINF:-1,VIP FHD : Disney XD
+http://yourdnshere.xyz:83/Kericage/6824106935/374096
+#EXTINF:-1,VIP FHD : Disney XD
+http://yourdnshere.xyz:83/Kericage/6824106935/374179
+#EXTINF:-1,VIP FHD : E!
+http://yourdnshere.xyz:83/Kericage/6824106935/374217
+#EXTINF:-1,VIP FHD : E4
+http://yourdnshere.xyz:83/Kericage/6824106935/374098
+#EXTINF:-1,VIP FHD : E4
+http://yourdnshere.xyz:83/Kericage/6824106935/374180
+#EXTINF:-1,VIP FHD : Eden
+http://yourdnshere.xyz:83/Kericage/6824106935/374099
+#EXTINF:-1,VIP FHD : Eden
+http://yourdnshere.xyz:83/Kericage/6824106935/374181
+#EXTINF:-1,VIP FHD : Film 4
+http://yourdnshere.xyz:83/Kericage/6824106935/374100
+#EXTINF:-1,VIP FHD : Film 4
+http://yourdnshere.xyz:83/Kericage/6824106935/374184
+#EXTINF:-1,VIP FHD : FOX
+http://yourdnshere.xyz:83/Kericage/6824106935/374101
+#EXTINF:-1,VIP FHD : FOX
+http://yourdnshere.xyz:83/Kericage/6824106935/374185
+#EXTINF:-1,VIP FHD : Gold
+http://yourdnshere.xyz:83/Kericage/6824106935/374187
+#EXTINF:-1,VIP FHD : H2
+http://yourdnshere.xyz:83/Kericage/6824106935/374188
+#EXTINF:-1,VIP FHD :  Bloomberg
+http://yourdnshere.xyz:83/Kericage/6824106935/374084
+#EXTINF:-1,VIP FHD : History
+http://yourdnshere.xyz:83/Kericage/6824106935/374103
+#EXTINF:-1,VIP FHD : History
+http://yourdnshere.xyz:83/Kericage/6824106935/374189
+#EXTINF:-1,VIP FHD : History 2
+http://yourdnshere.xyz:83/Kericage/6824106935/374102
+#EXTINF:-1,VIP FHD : Lifetime
+http://yourdnshere.xyz:83/Kericage/6824106935/374111
+#EXTINF:-1,VIP FHD : Lifetime
+http://yourdnshere.xyz:83/Kericage/6824106935/374194
+#EXTINF:-1,VIP FHD : Love Nature
+http://yourdnshere.xyz:83/Kericage/6824106935/374196
+#EXTINF:-1,VIP FHD : Love Nature
+http://yourdnshere.xyz:83/Kericage/6824106935/374210
+#EXTINF:-1,VIP FHD : More 4
+http://yourdnshere.xyz:83/Kericage/6824106935/374112
+#EXTINF:-1,VIP FHD : More 4
+http://yourdnshere.xyz:83/Kericage/6824106935/374197
+#EXTINF:-1,VIP FHD : MTV
+http://yourdnshere.xyz:83/Kericage/6824106935/374113
+#EXTINF:-1,VIP FHD : MTV
+http://yourdnshere.xyz:83/Kericage/6824106935/374198
+#EXTINF:-1,VIP FHD : MTV Live
+http://yourdnshere.xyz:83/Kericage/6824106935/374114
+#EXTINF:-1,VIP FHD : MTV Live
+http://yourdnshere.xyz:83/Kericage/6824106935/374199
+#EXTINF:-1,VIP FHD : Nat Geo
+http://yourdnshere.xyz:83/Kericage/6824106935/374116
+#EXTINF:-1,VIP FHD : Nat Geo
+http://yourdnshere.xyz:83/Kericage/6824106935/374201
+#EXTINF:-1,VIP FHD : Nat Geo Wild
+http://yourdnshere.xyz:83/Kericage/6824106935/374117
+#EXTINF:-1,VIP FHD : Nat Geo Wild
+http://yourdnshere.xyz:83/Kericage/6824106935/374202
+#EXTINF:-1,VIP FHD : Nick
+http://yourdnshere.xyz:83/Kericage/6824106935/374118
+#EXTINF:-1,VIP FHD : Nick
+http://yourdnshere.xyz:83/Kericage/6824106935/374203
+#EXTINF:-1,VIP FHD : Paramount
+http://yourdnshere.xyz:83/Kericage/6824106935/374119
+#EXTINF:-1,VIP FHD : Paramount
+http://yourdnshere.xyz:83/Kericage/6824106935/374204
+#EXTINF:-1,VIP FHD : Quest
+http://yourdnshere.xyz:83/Kericage/6824106935/374206
+#EXTINF:-1,VIP FHD : Quest
+http://yourdnshere.xyz:83/Kericage/6824106935/374211
+#EXTINF:-1,VIP FHD : Sky Arts
+http://yourdnshere.xyz:83/Kericage/6824106935/374124
+#EXTINF:-1,VIP FHD : Sky Arts
+http://yourdnshere.xyz:83/Kericage/6824106935/374208
+#EXTINF:-1,VIP FHD : Sky Atlantic
+http://yourdnshere.xyz:83/Kericage/6824106935/374219
+#EXTINF:-1,VIP FHD : Sky Cinema Action & Adventure
+http://yourdnshere.xyz:83/Kericage/6824106935/303841
+#EXTINF:-1,VIP FHD : Sky Cinema Comedy
+http://yourdnshere.xyz:83/Kericage/6824106935/303839
+#EXTINF:-1,VIP FHD Sky Sports Main Event
+http://yourdnshere.xyz:83/Kericage/6824106935/309260
+#EXTINF:-1,VIP SD : ITV 1
+http://yourdnshere.xyz:83/Kericage/6824106935/374110
+#EXTINF:-1,VIP SD : Sky Atlantic
+http://yourdnshere.xyz:83/Kericage/6824106935/374221
+#EXTINF:-1,VIP FHD : Sky Cinema Disney
+http://yourdnshere.xyz:83/Kericage/6824106935/303837
+#EXTINF:-1,VIP FHD : Sky Cinema Drama
+http://yourdnshere.xyz:83/Kericage/6824106935/303840
+#EXTINF:-1,VIP FHD : Sky Cinema Family
+http://yourdnshere.xyz:83/Kericage/6824106935/303836
+#EXTINF:-1,VIP FHD : Sky Cinema Hits
+http://yourdnshere.xyz:83/Kericage/6824106935/303834
+#EXTINF:-1,VIP FHD : Sky Cinema Premier
+http://yourdnshere.xyz:83/Kericage/6824106935/303833
+#EXTINF:-1,VIP FHD : Sky Cinema SciFi & Horror
+http://yourdnshere.xyz:83/Kericage/6824106935/303832
+#EXTINF:-1,VIP FHD : Sky Cinema Select
+http://yourdnshere.xyz:83/Kericage/6824106935/303831
+#EXTINF:-1,VIP FHD : Sky Cinema Thriller
+http://yourdnshere.xyz:83/Kericage/6824106935/303838
+#EXTINF:-1,VIP FHD : Universal
+http://yourdnshere.xyz:83/Kericage/6824106935/374214
+#EXTINF:-1,VIP FHD : Sky Witness
+http://yourdnshere.xyz:83/Kericage/6824106935/374125
+#EXTINF:-1,VIP FHD : Sony Max
+http://yourdnshere.xyz:83/Kericage/6824106935/374126
+#EXTINF:-1,VIP FHD : Sony TV
+http://yourdnshere.xyz:83/Kericage/6824106935/374127
+#EXTINF:-1,VIP FHD : Star Gold
+http://yourdnshere.xyz:83/Kericage/6824106935/374128
+#EXTINF:-1,VIP FHD : Star Plus
+http://yourdnshere.xyz:83/Kericage/6824106935/374129
+#EXTINF:-1,VIP FHD : STV
+http://yourdnshere.xyz:83/Kericage/6824106935/374163
+#EXTINF:-1,VIP FHD : SYFY
+http://yourdnshere.xyz:83/Kericage/6824106935/374130
+#EXTINF:-1,VIP FHD : TCM
+http://yourdnshere.xyz:83/Kericage/6824106935/374131
+#EXTINF:-1,VIP FHD : TCM
+http://yourdnshere.xyz:83/Kericage/6824106935/374212
+#EXTINF:-1,VIP FHD : TG4
+http://yourdnshere.xyz:83/Kericage/6824106935/374139
+#EXTINF:-1,VIP FHD : TLC
+http://yourdnshere.xyz:83/Kericage/6824106935/374132
+#EXTINF:-1,VIP FHD : TLC
+http://yourdnshere.xyz:83/Kericage/6824106935/374213
+#EXTINF:-1,VIP FHD : UTV
+http://yourdnshere.xyz:83/Kericage/6824106935/374134
+#EXTINF:-1,VIP FHD : W (Watch)
+http://yourdnshere.xyz:83/Kericage/6824106935/374215
+#EXTINF:-1,VIP FHD : W
+http://yourdnshere.xyz:83/Kericage/6824106935/374135
+#EXTINF:-1,VIP FHD : ZEE Cinema
+http://yourdnshere.xyz:83/Kericage/6824106935/374136
+#EXTINF:-1,VIP USA HD : Baby TV
+http://yourdnshere.xyz:83/Kericage/6824106935/308961
+#EXTINF:-1,VIP HD : RTE One
+http://yourdnshere.xyz:83/Kericage/6824106935/374122
+#EXTINF:-1,VIP HD : RTE Two
+http://yourdnshere.xyz:83/Kericage/6824106935/374123
+#EXTINF:-1,VIP HD : Sky Atlantic
+http://yourdnshere.xyz:83/Kericage/6824106935/374220
+#EXTINF:-1,VIP HD : Sky Cinema Comedy
+http://yourdnshere.xyz:83/Kericage/6824106935/303850
+#EXTINF:-1,VIP HD : Sky Cinema Drama
+http://yourdnshere.xyz:83/Kericage/6824106935/303848
+#EXTINF:-1,VIP HD : Sky Cinema Family
+http://yourdnshere.xyz:83/Kericage/6824106935/303847
+#EXTINF:-1,VIP HD : Sky Cinema Hits
+http://yourdnshere.xyz:83/Kericage/6824106935/303845
+#EXTINF:-1,VIP HD : Sky Cinema Premiere
+http://yourdnshere.xyz:83/Kericage/6824106935/303844
+#EXTINF:-1,VIP HD : Sky Cinema SciFI & Horror
+http://yourdnshere.xyz:83/Kericage/6824106935/303843
+#EXTINF:-1,VIP HD : Sky Cinema Select
+http://yourdnshere.xyz:83/Kericage/6824106935/303842
+#EXTINF:-1,VIP HD : Sky Cinema Superheroes
+http://yourdnshere.xyz:83/Kericage/6824106935/303846
+#EXTINF:-1,VIP HD : Sky Cinema Thriller
+http://yourdnshere.xyz:83/Kericage/6824106935/303849
+#EXTINF:-1,VIP HD : Viceland
+http://yourdnshere.xyz:83/Kericage/6824106935/374218
+#EXTINF:-1,VIP FHD : Sky Sports Premier League
+http://yourdnshere.xyz:83/Kericage/6824106935/382163
+#EXTINF:-1,VIP FHD : 4 Seven
+http://yourdnshere.xyz:83/Kericage/6824106935/374209
+#EXTINF:-1,UK FHD :  BT SPORTS 1
+http://yourdnshere.xyz:83/Kericage/6824106935/309255
+#EXTINF:-1,UK HD : BT SPORTS 1
+http://yourdnshere.xyz:83/Kericage/6824106935/309257
+#EXTINF:-1,UK HD : BT SPORTS 3
+http://yourdnshere.xyz:83/Kericage/6824106935/309256
+#EXTINF:-1,UK SD : BT SPORTS 3
+http://yourdnshere.xyz:83/Kericage/6824106935/309254
+#EXTINF:-1,UK FHD : BT SPORTS ESPN
+http://yourdnshere.xyz:83/Kericage/6824106935/362255
+#EXTINF:-1,UK HD : BT SPORTS ESPN
+http://yourdnshere.xyz:83/Kericage/6824106935/262998
+#EXTINF:-1,UK SD : ELEVEN SPORTS 1
+http://yourdnshere.xyz:83/Kericage/6824106935/306465
+#EXTINF:-1,UK HD : Eurosport 1
+http://yourdnshere.xyz:83/Kericage/6824106935/262879
+#EXTINF:-1,UK SD : Eurosport 1
+http://yourdnshere.xyz:83/Kericage/6824106935/331881
+#EXTINF:-1,UK SD : Eurosport 2
+http://yourdnshere.xyz:83/Kericage/6824106935/262880
+#EXTINF:-1,UK SD : Eurosport 2
+http://yourdnshere.xyz:83/Kericage/6824106935/331880
+#EXTINF:-1,UK SD : Free Sports
+http://yourdnshere.xyz:83/Kericage/6824106935/336666
+#EXTINF:-1,UK SD : Premier Sport 2
+http://yourdnshere.xyz:83/Kericage/6824106935/309582
+#EXTINF:-1,UK HD : Racing
+http://yourdnshere.xyz:83/Kericage/6824106935/21174
+#EXTINF:-1,UK SD : Sky Sports Action
+http://yourdnshere.xyz:83/Kericage/6824106935/366649
+#EXTINF:-1,UK FHD : Sky Sports Action
+http://yourdnshere.xyz:83/Kericage/6824106935/366924
+#EXTINF:-1,UK FHD : Sky Sports Arena
+http://yourdnshere.xyz:83/Kericage/6824106935/366923
+#EXTINF:-1,UK SD : Sky Sports Cricket
+http://yourdnshere.xyz:83/Kericage/6824106935/366648
+#EXTINF:-1,UK FHD : Sky Sports Cricket
+http://yourdnshere.xyz:83/Kericage/6824106935/366922
+#EXTINF:-1,UK SD : Sky Sports F1
+http://yourdnshere.xyz:83/Kericage/6824106935/366646
+#EXTINF:-1,UK FHD : Sky Sports F1
+http://yourdnshere.xyz:83/Kericage/6824106935/366921
+#EXTINF:-1,UK SD : Sky Sports Football
+http://yourdnshere.xyz:83/Kericage/6824106935/366650
+#EXTINF:-1,UK FHD : Sky Sports Football
+http://yourdnshere.xyz:83/Kericage/6824106935/366920
+#EXTINF:-1,UK SD : Sky Sports Golf
+http://yourdnshere.xyz:83/Kericage/6824106935/366645
+#EXTINF:-1,UK FHD : Sky Sports Golf
+http://yourdnshere.xyz:83/Kericage/6824106935/366919
+#EXTINF:-1,UK SD : Sky Sports Main Event
+http://yourdnshere.xyz:83/Kericage/6824106935/366652
+#EXTINF:-1,UK FHD : Sky Sports Main Events
+http://yourdnshere.xyz:83/Kericage/6824106935/366918
+#EXTINF:-1,UK SD : Sky Sports Mix
+http://yourdnshere.xyz:83/Kericage/6824106935/366647
+#EXTINF:-1,UK FHD : Sky Sports Mix
+http://yourdnshere.xyz:83/Kericage/6824106935/366917
+#EXTINF:-1,UK FHD : Sky Sports News
+http://yourdnshere.xyz:83/Kericage/6824106935/366916
+#EXTINF:-1,UK SD : Sky Sports Premier League
+http://yourdnshere.xyz:83/Kericage/6824106935/366651
+#EXTINF:-1,UK FHD : Sky Sports Premier League
+http://yourdnshere.xyz:83/Kericage/6824106935/366915
+#EXTINF:-1,UK SD : Sky Sports Racing
+http://yourdnshere.xyz:83/Kericage/6824106935/379456
+#EXTINF:-1,UK FHD : Sky Sports Racing
+http://yourdnshere.xyz:83/Kericage/6824106935/366914
+#EXTINF:-1,UK SD : Boxnation
+http://yourdnshere.xyz:83/Kericage/6824106935/381373
+#EXTINF:-1,UK SD : Front Runner
+http://yourdnshere.xyz:83/Kericage/6824106935/381397
+#EXTINF:-1,UK SD : BT SPORTS 2
+http://yourdnshere.xyz:83/Kericage/6824106935/382155
+#EXTINF:-1,UK FHD : BT SPORTS 2
+http://yourdnshere.xyz:83/Kericage/6824106935/382158
+#EXTINF:-1,UK HD : BT SPORT 2
+http://yourdnshere.xyz:83/Kericage/6824106935/382159
+#EXTINF:-1,UK SD : Celtic TV 1 (Only Match Time)
+http://yourdnshere.xyz:83/Kericage/6824106935/308612
+#EXTINF:-1,UK HD : LFC TV
+http://yourdnshere.xyz:83/Kericage/6824106935/21176
+#EXTINF:-1,UK SD : MUTV
+http://yourdnshere.xyz:83/Kericage/6824106935/67167
+#EXTINF:-1,UK SD : Rangers TV 1 (Only Match Time)
+http://yourdnshere.xyz:83/Kericage/6824106935/308605
+#EXTINF:-1,UK SD : Premier Sports LaLiga
+http://yourdnshere.xyz:83/Kericage/6824106935/382405
+#EXTINF:-1,UK SD : BBC One
+http://yourdnshere.xyz:83/Kericage/6824106935/168364
+#EXTINF:-1,UK FHD :  BBC One
+http://yourdnshere.xyz:83/Kericage/6824106935/330424
+#EXTINF:-1,UK SD : BBC One Northern Ireland
+http://yourdnshere.xyz:83/Kericage/6824106935/168349
+#EXTINF:-1,UK SD : BBC One Scotland
+http://yourdnshere.xyz:83/Kericage/6824106935/168351
+#EXTINF:-1,UK SD : BBC One Wales
+http://yourdnshere.xyz:83/Kericage/6824106935/168353
+#EXTINF:-1,UK SD : BBC Two
+http://yourdnshere.xyz:83/Kericage/6824106935/21112
+#EXTINF:-1,UK SD : BBC Two Northern Ireland
+http://yourdnshere.xyz:83/Kericage/6824106935/327636
+#EXTINF:-1,UK SD : BBC Two Wales
+http://yourdnshere.xyz:83/Kericage/6824106935/168352
+#EXTINF:-1,UK FHD :  ITV
+http://yourdnshere.xyz:83/Kericage/6824106935/142763
+#EXTINF:-1,UK SD : ITV
+http://yourdnshere.xyz:83/Kericage/6824106935/21062
+#EXTINF:-1,UK FHD : Channel 4
+http://yourdnshere.xyz:83/Kericage/6824106935/257065
+#EXTINF:-1,UK HD : Channel 4
+http://yourdnshere.xyz:83/Kericage/6824106935/325942
+#EXTINF:-1,UK FHD : Channel 5
+http://yourdnshere.xyz:83/Kericage/6824106935/21097
+#EXTINF:-1,UK HD : Channel 5
+http://yourdnshere.xyz:83/Kericage/6824106935/142761
+#EXTINF:-1,UK SD : 4Seven
+http://yourdnshere.xyz:83/Kericage/6824106935/21077
+#EXTINF:-1,UK SD : 4 Seven
+http://yourdnshere.xyz:83/Kericage/6824106935/142752
+#EXTINF:-1,UK SD : 5 Star
+http://yourdnshere.xyz:83/Kericage/6824106935/21081
+#EXTINF:-1,UK HD : 5 Star
+http://yourdnshere.xyz:83/Kericage/6824106935/142755
+#EXTINF:-1,UK SD : AMC
+http://yourdnshere.xyz:83/Kericage/6824106935/21116
+#EXTINF:-1,UK SD : Alibi
+http://yourdnshere.xyz:83/Kericage/6824106935/268767
+#EXTINF:-1,UK SD : BBC Alba
+http://yourdnshere.xyz:83/Kericage/6824106935/256034
+#EXTINF:-1,UK SD : BBC 4
+http://yourdnshere.xyz:83/Kericage/6824106935/302111
+#EXTINF:-1,UK SD : BBC Scotland
+http://yourdnshere.xyz:83/Kericage/6824106935/338125
+#EXTINF:-1,UK SD : Blaze
+http://yourdnshere.xyz:83/Kericage/6824106935/328194
+#EXTINF:-1,UK SD : CBS Drama
+http://yourdnshere.xyz:83/Kericage/6824106935/21105
+#EXTINF:-1,UK SD : CBS Justice
+http://yourdnshere.xyz:83/Kericage/6824106935/21106
